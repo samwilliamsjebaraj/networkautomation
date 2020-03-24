@@ -1,0 +1,3 @@
+this is a sample text file
+this file is used as a demo file for python script
+come on lets play ...

@@ -1,0 +1,3 @@
+INFO:root:starting execution of logging code
+ERROR:root:Unable to Open File, File not Found in the location specified
+INFO:root:execution of logging code is complete.
